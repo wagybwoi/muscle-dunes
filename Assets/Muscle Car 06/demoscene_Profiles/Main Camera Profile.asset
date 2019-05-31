@@ -1341,10 +1341,10 @@ MonoBehaviour:
     value: 0.2
   edgeExp:
     overrideState: 1
-    value: 50
+    value: 10
   sampleDist:
     overrideState: 1
-    value: 1
+    value: 2
   edgesOnly:
     overrideState: 0
     value: -0
